@@ -8,7 +8,6 @@ With keen interests in Web Development, Robotics, and Deep Learning. My focus is
 
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [davidpich.kh@gmail.com](mailto:davidpich.kh@gmail.com)
-* 🧠  I'm learning Large Language Model (LLM)
 
 ### Skills
 
