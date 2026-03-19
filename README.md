@@ -1,11 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Pich
 ==================================================================================================================================
 
-Computer Science Student
-------------------------
-
-With keen interests in Web Development, Robotics, and Deep Learning. My focus is on harnessing the power and blending technological innovation with real-world applications to create impactful solutions.
-
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [davidpich.kh@gmail.com](mailto:davidpich.kh@gmail.com)
 
